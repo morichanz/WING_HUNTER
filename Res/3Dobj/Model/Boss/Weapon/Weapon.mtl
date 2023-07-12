@@ -1,0 +1,5 @@
+newmtl defaultMat
+Kd 1 1 1
+map_Kd BaseMaterial_diffuse.tga
+illum 2
+

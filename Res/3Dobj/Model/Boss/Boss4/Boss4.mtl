@@ -1,0 +1,18 @@
+newmtl set3_bake_ao
+Kd 1 1 1
+map_Kd T_set3_BaseColor.tga
+map_Bump T_set3_Normal.tga
+illum 2
+
+newmtl set1_bake_ao
+Kd 1 1 1
+map_Kd T_set1_BaseColor.tga
+map_Bump T_set1_Normal.tga
+illum 2
+
+newmtl set2_bake_ao
+Kd 1 1 1
+map_Kd T_set2_BaseColor.tga
+map_Bump T_set2_Normal.tga
+illum 2
+

@@ -1,0 +1,10 @@
+[
+  { "name" : "Stage4", "mesh" : "Stage4", "translate" : [ 85, 0, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (1)", "mesh" : "Stage4", "translate" : [ 85, 340, -4.053116E-05 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (2)", "mesh" : "Stage4", "translate" : [ 85, 680.0001, -8.106232E-05 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (3)", "mesh" : "Stage4", "translate" : [ 85, 1020, -0.0001215935 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (4)", "mesh" : "Stage4", "translate" : [ 85, 1360, -0.0001621246 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (5)", "mesh" : "Stage4", "translate" : [ 85, 1700, -0.0002026558 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (6)", "mesh" : "Stage4", "translate" : [ 85, 2040, -0.000243187 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage4 (7)", "mesh" : "Stage4", "translate" : [ 85, 2380, -0.0002837181 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] }
+]

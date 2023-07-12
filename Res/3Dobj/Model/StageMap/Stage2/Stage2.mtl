@@ -1,0 +1,6 @@
+newmtl ColorMap
+Kd 1 1 1
+map_Kd ColorMap.tga
+map_Bump Normal Map.tga
+illum 2
+

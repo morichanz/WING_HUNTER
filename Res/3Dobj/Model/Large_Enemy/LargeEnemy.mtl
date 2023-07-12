@@ -1,0 +1,5 @@
+newmtl StormTalon_Col
+Kd 1 1 1
+map_Kd StormTalon_Col.tga
+illum 2
+

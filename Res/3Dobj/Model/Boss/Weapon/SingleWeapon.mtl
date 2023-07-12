@@ -1,0 +1,5 @@
+newmtl New Material
+Kd 1 1 1
+map_Kd scifi_cannon_Base_Color.tga
+illum 2
+

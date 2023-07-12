@@ -1,0 +1,10 @@
+[
+  { "name" : "Stage6", "mesh" : "Stage6", "translate" : [ 85, 0, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (1)", "mesh" : "Stage6", "translate" : [ 85, 340, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (2)", "mesh" : "Stage6", "translate" : [ 85, 680.0001, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (3)", "mesh" : "Stage6", "translate" : [ 85, 1020, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (4)", "mesh" : "Stage6", "translate" : [ 85, 1360, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (5)", "mesh" : "Stage6", "translate" : [ 85, 1700, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (6)", "mesh" : "Stage6", "translate" : [ 85, 2040, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] },
+  { "name" : "Stage6 (7)", "mesh" : "Stage6", "translate" : [ 85, 2380, 0 ], "rotate" : [ 0, 0, 0 ], "scale" : [ 340, 340, 1 ] }
+]

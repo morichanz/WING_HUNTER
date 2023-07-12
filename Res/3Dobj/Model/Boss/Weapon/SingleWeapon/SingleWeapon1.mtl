@@ -1,0 +1,30 @@
+newmtl cable
+Kd 1 1 1
+map_Kd drone_fufu_collpase_cable_BaseColor.tga
+illum 2
+
+newmtl fusil
+Kd 1 1 1
+map_Kd drone_fufu_collpase_fusil_BaseColor.tga
+illum 2
+
+newmtl corps
+Kd 1 1 1
+map_Kd drone_fufu_collpase_corps_BaseColor.tga
+illum 2
+
+newmtl canon
+Kd 1 1 1
+map_Kd drone_fufu_collpase_canon_BaseColor.tga
+illum 2
+
+newmtl antenne
+Kd 1 1 1
+map_Kd drone_fufu_collpase_antenne_BaseColor.tga
+illum 2
+
+newmtl accroche
+Kd 1 1 1
+map_Kd drone_fufu_collpase_accroche_BaseColor.tga
+illum 2
+

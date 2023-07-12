@@ -1,0 +1,145 @@
+newmtl Concrete_fence_v1
+map_Kd Concrete_fence_v1.tga
+illum 2
+
+newmtl Seamless_asphalt_v1
+map_Kd Seamless_asphalt_v1.tga
+illum 2
+
+newmtl Concrete_fence_v2
+map_Kd Concrete_fence_v2.tga
+illum 2
+
+newmtl Wooden_box_v1
+map_Kd Wooden_box_v1.tga
+illum 2
+
+newmtl Cargo_container_v1
+map_Kd Cargo_container_v1.tga
+illum 2
+
+newmtl Bags_on_pallet_v1
+map_Kd Bags_on_pallet_v1.tga
+illum 2
+
+newmtl UNIConcrete_wall_v1
+map_Kd UNIConcrete_wall_v1.tga
+illum 2
+
+newmtl Cargo_container_v2
+map_Kd Cargo_container_v2.tga
+illum 2
+
+newmtl Pipes_set_v1
+map_Kd Pipes_set_v1.tga
+illum 2
+
+newmtl Hangar_v6
+map_Kd Hangar_v6.tga
+illum 2
+
+newmtl Oil_tank_v1
+map_Kd Oil_tank_v1.tga
+illum 2
+
+newmtl Palet_v1
+map_Kd Palet_v1.tga
+illum 2
+
+newmtl Support_set_v1
+map_Kd Support_set_v1.tga
+illum 2
+
+newmtl Hangar_v2
+map_Kd Hangar_v2.tga
+illum 2
+
+newmtl Conditioner_v1
+map_Kd Conditioner_v1.tga
+illum 2
+
+newmtl Hangar_v4
+map_Kd Hangar_v4.tga
+illum 2
+
+newmtl Barrel_v1
+map_Kd Barrel_v1.tga
+illum 2
+
+newmtl Electric_box_v1
+map_Kd Electric_box_v1.tga
+illum 2
+
+newmtl Lattice_v1
+Kd 0.6323529 0.6323529 0.6323529
+map_Kd Lattice_v1.tga
+illum 2
+
+newmtl Electric_box_v2
+map_Kd Electric_box_v2.tga
+illum 2
+
+newmtl Road_with_pavements_v1
+map_Kd Road_with_pavements_v1.tga
+illum 2
+
+newmtl Cargo_container_v3
+map_Kd Cargo_container_v3.tga
+illum 2
+
+newmtl Road_block_v1
+map_Kd Road_block_v1.tga
+illum 2
+
+newmtl Barrel_v3
+map_Kd Barrel_v3.tga
+illum 2
+
+newmtl Hangar_v1
+map_Kd Hangar_v1.tga
+illum 2
+
+newmtl Industrial_pipe_v1
+map_Kd Industrial_pipe_v1.tga
+illum 2
+
+newmtl Barrel_v2
+map_Kd Barrel_v2.tga
+illum 2
+
+newmtl Hangar_v5
+map_Kd Hangar_v5.tga
+illum 2
+
+newmtl Oil_tank_v2
+map_Kd Oil_tank_v2.tga
+illum 2
+
+newmtl Hangar_v3
+map_Kd Hangar_v3.tga
+illum 2
+
+newmtl Fan_v1
+map_Kd Fan_v1.tga
+illum 2
+
+newmtl Electric_box_v3
+map_Kd Electric_box_v3.tga
+illum 2
+
+newmtl Dumpsters_v1
+map_Kd Dumpsters_v1.tga
+illum 2
+
+newmtl Generator_v1
+map_Kd Generator_v1.tga
+illum 2
+
+newmtl Hangars_interior_v1
+map_Kd Hangars_interior_v1.tga
+illum 2
+
+newmtl Hangar_v7
+map_Kd Hangar_v7.tga
+illum 2
+

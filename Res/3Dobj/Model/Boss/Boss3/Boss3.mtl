@@ -1,0 +1,10 @@
+newmtl 1001_Base_Color
+Kd 1 1 1
+map_Kd 1001_Base_Color.tga
+illum 2
+
+newmtl 1001_Emissive
+Kd 1 1 1
+map_Kd 1001_Emissive.tga
+illum 2
+

@@ -1,0 +1,110 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  EasyAudio.cpp
+  BossState.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(14,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(21,42): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(25,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(30,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(35,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(45,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(52,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  FactoryBase.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(14,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(21,42): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(25,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(30,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(35,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(45,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(52,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  WeaponState.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(14,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(21,42): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(25,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(30,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(35,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(45,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(52,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Debug.cpp
+  Engine.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': マクロが再定義されました。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\glad\include\glad\glad.h(32): message : 'APIENTRY' の以前の定義を確認してください
+  FramebufferObject.cpp
+  GameObject.cpp
+  main.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': マクロが再定義されました。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\glad\include\glad\glad.h(32): message : 'APIENTRY' の以前の定義を確認してください
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\main.cpp(30,12): warning C4101: 'winc': ローカル変数は 1 度も使われていません。
+  Mesh.cpp
+  ProgramPipeline.cpp
+  ClearScene.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  ConfigScene.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(14,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(21,42): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(25,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(35,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(45,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(52,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  コンパイル中...
+  Fade.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  GameOverScene.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,40): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(36,19): warning C4244: '初期化中': 'double' から 'const float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Component\Camera.h(37,20): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\GameOverScene.cpp(88,21): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  LoadScene.cpp
+  MainGameScene.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(14,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(21,42): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(25,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(35,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(45,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(52,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\MainGameScene.cpp(630,54): warning C4244: '初期化中': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\MainGameScene.cpp(630,19): warning C4244: '初期化中': 'float' から 'const int' への変換です。データが失われる可能性があります。
+  TitleScene.cpp
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\TitleScene.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(14,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(21,42): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(25,15): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(35,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(45,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Easing.h(52,14): warning C4244: 'return': 'double' から 'float' への変換です。データが失われる可能性があります。
+  Texture.cpp
+  VecMath.cpp
+  glad.c
+  コード生成しています。
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\Src\Scene\ConfigScene.cpp(174): warning C4715: 'ConfigScene::GetKeyCoad': 値を返さないコントロール パスがあります。
+  All 7185 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  WING_HUNTER.vcxproj -> C:\Users\Morita\Documents\GitHub\C++\WING_HUNTER\WING_HUNTER_Source\x64\Release\WING_HUNTER.exe

@@ -1,0 +1,21 @@
+newmtl outline
+Kd 0 0 0
+illum 2
+
+newmtl base_mat
+Kd 0.665185 0.665185 0.665185
+illum 2
+
+newmtl glow
+Kd 0 0.9063317 0.1534163
+illum 2
+
+newmtl turret_mat
+Kd 0.665185 0.665185 0.665185
+illum 2
+
+newmtl internal_ground_ao_texture
+Kd 1 1 1
+map_Kd internal_ground_ao_texture.tga
+illum 2
+

@@ -1,0 +1,6 @@
+newmtl Stone Ground 1_d
+Kd 1 1 1
+map_Kd Stone Ground 1_d.tga
+map_Bump Stone Ground 1_n.tga
+illum 2
+

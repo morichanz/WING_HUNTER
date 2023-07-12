@@ -1,0 +1,6 @@
+newmtl ground_kaminky2
+Kd 1 1 1
+map_Kd ground_kaminky2.tga
+map_Bump wrak_zedn.tga
+illum 2
+

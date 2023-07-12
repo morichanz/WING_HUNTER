@@ -1,0 +1,52 @@
+newmtl Mat_Vertical_thruster
+Kd 1 1 1
+map_Kd Mat_Vertical_thruster_Albedo.tga
+illum 2
+
+newmtl Mat_engine
+Kd 1 1 1
+map_Kd Mat_engine_Albedo.tga
+illum 2
+
+newmtl Mat_cockpit
+Kd 1 1 1
+map_Kd Mat_cockpit_Albedo.tga
+illum 2
+
+newmtl Mat_canopy
+Kd 1 1 1
+Tr 0.480916
+d 0.519084
+map_Kd Mat_canopy_Albedo.tga
+illum 2
+
+newmtl mat_weapons
+Kd 1 1 1
+map_Kd Mat_weapons_Albedo.tga
+illum 2
+
+newmtl Mat_screens
+Kd 1 1 1
+map_Kd Mat_screens_Albedo.tga
+illum 2
+
+newmtl Mat_console
+Kd 1 1 1
+map_Kd Mat_console_Albedo.tga
+illum 2
+
+newmtl Mat_hulltop
+Kd 1 1 1
+map_Kd Mat_hulltop_Albedo.tga
+illum 2
+
+newmtl Mat_tailgate
+Kd 1 1 1
+map_Kd Mat_tailgate_Albedo.tga
+illum 2
+
+newmtl Mat_hullbottom
+Kd 1 1 1
+map_Kd Mat_hullbottom_Albedo.tga
+illum 2
+

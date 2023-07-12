@@ -1,0 +1,5 @@
+newmtl Grass_v1
+Kd 1 1 1
+map_Kd Grass_v1.tga
+illum 2
+

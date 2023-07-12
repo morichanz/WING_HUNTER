@@ -1,0 +1,5 @@
+newmtl grassHR2 02
+Kd 1 1 1
+map_Kd grassHR2 02.tga
+illum 2
+
